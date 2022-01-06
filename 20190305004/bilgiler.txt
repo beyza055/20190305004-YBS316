@@ -1,0 +1,4 @@
+﻿Giriş bilgileri
+kullanıcı adı : admin
+parola : admin
+
